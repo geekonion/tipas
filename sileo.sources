@@ -1,0 +1,18 @@
+Types: deb
+URIs: https://build.frida.re/
+Suites: ./
+Components:
+Trusted: yes
+
+Types: deb
+URIs: https://alias20.gitlab.io/apt/
+Suites: ./
+Components:
+Trusted: yes
+
+Types: deb
+URIs: https://ios.jjolano.me/
+Suites: ./
+Components:
+Trusted: yes
+
